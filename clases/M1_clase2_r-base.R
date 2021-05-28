@@ -248,16 +248,16 @@ library(MASS)
 ## inspeccionar primero
 crabs
 
-class(crabs)
-dim(crabs)
-nrow(crabs)
-ncol(crabs)
-str(crabs)
+class(crabs) # indica si que tipo de datos contiene el objeto
+dim(crabs) # dimensiones del objeto (numero de filas y columnas)
+nrow(crabs) # numero de filas
+ncol(crabs) # numero de columnas
+str(crabs) # estructura interna de los datos
 
 head(crabs)# primeras 6 filas
 tail(crabs)# ultimas 6 filas
 colnames(crabs)# nombre de las columnas 
-
+names(crabs)# tambien da informacion sobre el nombre de las columnas
 # seleccionar
 ## [] o $
 # data[x,y] # x filas
