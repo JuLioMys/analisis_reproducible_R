@@ -4,9 +4,11 @@
 
 ## Introducción
 
-En este curso se impartirán las bases conceptuales y se proveerán las herramientas necesarias para analizar datos de una manera reproducible. El término "reproducible" aquí se aplica específicamente al método de trabajo moderno que facilita las tareas relacionadas al análisis de datos. Además, este método permite que otras personas puedan verificar, colaborar o reutilizar estas tareas documentadas...
+En este curso se imparten las bases conceptuales y se proveen las herramientas necesarias para analizar datos de una manera reproducible. El término “reproducible” aquí se aplica específicamente al método de trabajo moderno que facilita las tareas relacionadas al análisis de datos. Además, este método permite que otras personas puedan verificar, colaborar o reutilizar estas tareas documentadas. Muchas veces, es la misma persona que realizó el análisis la que meses o años después necesita repetir estas tareas. Estas herramientas hacen posible esa y otras tareas de una forma sencilla y sistemática.
 
-(pega aquí el resto del texto de Introducción)
+El curso va dirigido a estudiantes y profesionales que necesiten trabajar con datos tabulares (Excel, .csv, txt, SQL). No es requisito manejar ningún lenguaje de programación ya que el curso está enfocado a personas sin ninguna base. La carga horaria y la distribución de contenidos también tiene muy en cuenta esto, ya que las clases están organizadas para ir ganando habilidades desde lo básico a tareas más complejas.
+
+El curso es impartido de forma virtual. La plataforma, los días y horario es convenido con los estudiantes y el instructor. El programa se divide en 5 módulos con sus respectivos ejes temáticos y contenidos que se detallan mas abajo. La carga horaria sería de 6 hs por módulo, totalizando 24 hs reloj.
 
 ## Fundamentación
 
