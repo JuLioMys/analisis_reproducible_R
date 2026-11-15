@@ -8,7 +8,7 @@ En este curso se imparten las bases conceptuales y se proveen las herramientas n
 
 El curso va dirigido a estudiantes y profesionales que necesiten trabajar con datos tabulares (Excel, .csv, txt, SQL). No es requisito manejar ningún lenguaje de programación ya que el curso está enfocado a personas sin ninguna base. La carga horaria y la distribución de contenidos también tiene muy en cuenta esto, ya que las clases están organizadas para ir ganando habilidades desde lo básico a tareas más complejas.
 
-El curso es impartido de forma virtual. La plataforma, los días y horario es convenido con los estudiantes y el instructor. El programa se divide en 5 módulos con sus respectivos ejes temáticos y contenidos que se detallan mas abajo. La carga horaria sería de 6 hs por módulo, totalizando 24 hs reloj.
+El curso es impartido de forma virtual. La plataforma, los días y horario es convenido con los estudiantes y el instructor. El programa se divide en 4 módulos con sus respectivos ejes temáticos y contenidos que se detallan mas abajo. La carga horaria sería de 6 hs por módulo, totalizando 24 hs reloj.
 
 ## Fundamentación
 
