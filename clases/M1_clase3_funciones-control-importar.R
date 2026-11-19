@@ -226,7 +226,7 @@ repeat {
 
 # bajar datos de internet
 
-download.file(url = "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data", destfile = "iris.data" )
+download.file(url = "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data", destfile = "./datos/iris.data" )
 
 # read.table
 ### Argumentos
@@ -236,20 +236,20 @@ download.file(url = "https://archive.ics.uci.edu/ml/machine-learning-databases/i
 # col.names
 # stringAsFactors: convierte los textos a factores
 
-data <- read.table("iris.data", sep = ",")
+data <- read.table("./datos/iris.data", sep = ",")
 data
 
 # agregar encabezados
 nombres <- c("LP","AP","LT","DT","specie")
-data <- read.table("iris.data", sep = ",", col.names = nombres)
+data <- read.table("./datos/iris.data", sep = ",", col.names = nombres)
 
 head(data)
 ## la opcion de file.choose()
 # read.csv
 
-df_cancer <- read.table(file = "breast-cancer-wisconsin.csv", header = FALSE, sep = ",")
+df_cancer <- read.table(file = "./datos/breast-cancer-wisconsin.csv", header = FALSE, sep = ",")
 
-df_cancer <- read.csv("breast-cancer-wisconsin.csv")
+df_cancer <- read.csv("./datos/breast-cancer-wisconsin.csv")
 
 
 ## Exportar
@@ -261,9 +261,9 @@ df_cancer <- read.csv("breast-cancer-wisconsin.csv")
 ## sep: separador de columnas
 ## col.names: incluir (True) o no (False) los nombres de las columnas
 
-write.table(data, "iris_exportado.txt", sep = "\t", row.names= FALSE, col.names = TRUE)
+write.table(data, "./datos/iris_exportado.txt", sep = "\t", row.names= FALSE, col.names = TRUE)
 
-data_import <- read.table("iris_exportado.txt", sep = "\t", header = T)
+data_import <- read.table("./datos/iris_exportado.txt", sep = "\t", header = T)
 
 
 # write.csv()

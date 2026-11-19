@@ -158,7 +158,7 @@ read_excel(xlsx_example, range = "A1:E4")
 library(openxlsx)
 l <- list(iris = iris, mtcars = mtcars, chickwts = chickwts, quakes = quakes)
 
-openxlsx::write.xlsx(l, file = ".datos/datasets.xlsx")
+openxlsx::write.xlsx(l, file = "./datos/datasets.xlsx")
 
 
 

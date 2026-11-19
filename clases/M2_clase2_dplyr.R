@@ -287,7 +287,7 @@ data <- na_if(data, 0)
 # guardar ese archivo
 library(openxlsx)
 
-openxlsx::write.xlsx(data, file = ".datos/datasets_NA.xlsx") # con esta libreria no hay problemas
+openxlsx::write.xlsx(data, file = "./datos/datasets_NA.xlsx") # con esta libreria no hay problemas
 write.csv(data, "./datos/datasets_NA.csv", row.names = FALSE)# exporta llenando con NA
 # completar con na = "" si queres que quede las celdas vacias
 

@@ -19,6 +19,8 @@ Curso virtual de 24 horas (4 módulos, 12 clases de 2 hs) dirigido a estudiantes
 
 👉 **Programa completo, fundamentación y cronograma:** [ver documento](docs/programa_curso.md)
 
+📑 **Diapositivas del Módulo 1, Clase 1 (Bases conceptuales):** [ver PDF](clases/M1_clase1_Analisis_reproducible.Bases_conceptuales.pdf)
+
 ## Estructura del repositorio
 
 - `clases/` — scripts de cada clase
